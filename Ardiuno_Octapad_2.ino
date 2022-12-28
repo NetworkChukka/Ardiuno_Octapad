@@ -1,4 +1,4 @@
-//Networkchukka
+// C Networkchukka
 #define PIEZ_CNT 8 
 #define DRUM_CHANEL 8
 #define ANOTHER_MUTE_PIN_
